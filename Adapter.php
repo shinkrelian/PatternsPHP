@@ -25,7 +25,7 @@ class BookAdapter {
     }
 }
 
-  // client
+  // clientes
 
   writeln('BEGIN TESTING ADAPTER PATTERN');
   writeln('');
